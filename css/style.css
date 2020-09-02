@@ -204,6 +204,79 @@ h1, h2, h3, body{
   font-weight: 700;
 }
 
+/*Section
+==========================================================================*/
+
+.section{
+  margin-top: 85px;
+  margin-bottom: 85px;
+}
+
+.section__header{
+  text-align: center;
+  width: 100%;
+  max-width: 1000px;
+/*  margin-bottom: 80px;*/
+  margin: 0 auto 80px;
+}
+
+.section__header__suptitle{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 24px;
+  color: #000000;
+  margin-bottom: 14px;
+  
+  
+}
+.section__header__title{
+  font-size: 30px;
+  font-weight: 700;
+  color: #000000;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin-bottom: 35px;
+}
+
+.section__red__line{
+  height: 3px;
+  width: 60px;
+  background-color: #d98080;
+  margin: 0 auto 40px;
+}
+
+.section__text{
+  color: #979797;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
